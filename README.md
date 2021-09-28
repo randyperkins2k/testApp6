@@ -27,3 +27,4 @@ Things you may want to cover:
 * 
 * Note: When pushing to github: 'origin' is the online repository,
   and 'master' refers to the master branch.
+  Thus, we type: git push origin master.
