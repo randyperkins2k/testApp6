@@ -24,3 +24,6 @@ Things you may want to cover:
 * ...
 * 
 * Other stuff!!!!!!!!!!!!!
+* 
+* Note: When pushing to github: 'origin' is the online repository,
+  and 'master' refers to the master branch.
